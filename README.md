@@ -5,11 +5,12 @@
 ---
 
 ### :technologist: About Me:
-Computer Engineering Student at UW-Madison. Interested in cybersecurity, augmented reality, and machine learning. Love to build little
-projects and have experience with both Arduinos and Raspberry Pi's. Currently working on a International Space Station tracking website
-using the  [![](https://img.shields.io/badge/Open%20Notify-yellow)](http://open-notify.org/) API,
-[![](https://img.shields.io/badge/Flask-blue?logo=flask)](https://flask.palletsprojects.com/en/2.3.x/) framework, as well as the python
-client for [![](https://img.shields.io/badge/Google%20Maps-red?logo=googlemaps)](https://github.com/googlemaps/google-maps-services-python).
+Computer Engineering student at UW-Madison. Interested in cybersecurity, augmented reality, and machine learning. Love to build little
+projects and have experience with both Arduinos and Raspberry Pi's. I am currently teaching myself the basics of cybersecurity and networking as well
+as developing a nightlife application for college students!
+
+
+:arrow_down: Feel free to check out some of my projects below!
 
 <br>
 :golf: In my free time I like to read as well as golf!
