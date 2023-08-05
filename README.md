@@ -6,8 +6,7 @@
 
 ### :technologist: About Me:
 Computer Engineering student at UW-Madison. Interested in cybersecurity, augmented reality, and machine learning. Love to build little
-projects and have experience with both Arduinos and Raspberry Pi's. I am currently teaching myself the basics of cybersecurity and networking as well
-as developing a nightlife application for college students!
+projects and have experience with both Arduinos and Raspberry Pi's. I am currently teaching myself the basics of cybersecurity and networking along with developing a nightlife application for college students!
 
 
 :arrow_down: Feel free to check out some of my projects below!
