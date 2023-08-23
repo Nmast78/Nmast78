@@ -18,7 +18,7 @@ projects and have experience with both Arduinos and Raspberry Pi's. I am current
 <br>
 :desktop_computer: Looking for an internship position for summer 2024
 
-:envelope_with_arrow: You can reach me via email @nicmast22@gamil.com or my LinkedIn linked above!
+:envelope_with_arrow: You can reach me via email @nicmast22@gmail.com or my LinkedIn linked above!
 
 ---
 
