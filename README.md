@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Nick
 
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-mast2022)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-mast2026/)
 
 ---
 
