@@ -6,8 +6,8 @@
 ---
 
 ### :technologist: About Me:
-Computer Engineering student at UW-Madison. Interested in cybersecurity, augmented reality, and machine learning. Love to build little
-projects and have experience with both Arduinos and Raspberry Pi's. I am currently teaching myself the basics of cybersecurity and networking along with developing a nightlife application for college students!
+Computer Engineering student at UW-Madison. Interested in cybersecurity, web development, and web scraping. Love to build
+projects and have experience with microcontrollers, mulitple programming languages, and frameworks. I am currently teaching myself the basics of cybersecurity and networking along with developing a internship finder website!
 
 
 :arrow_down: Feel free to check out some of my projects below!
@@ -17,7 +17,7 @@ projects and have experience with both Arduinos and Raspberry Pi's. I am current
 </br>
 
 <br>
-:desktop_computer: Looking for an internship position for summer 2024
+:desktop_computer: Currently interning at Skyward Inc.
 
 :envelope_with_arrow: You can reach me via email @nicmast22@gmail.com or my LinkedIn linked above!
 
