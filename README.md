@@ -12,8 +12,7 @@ I started programming in my sophomore year of high school, and believe it or not
 
 My professional engineering journey has been enriched by two opportunities. During my freshman and sophomore years at UW-Madison, I was an information technology support specialist for the university. This allowed me to help staff members while building my knowledge about IT, networking, and operating systems. This position gave me a fantastic understanding of corporate technologies and networks and inspired my love for cybersecurity. I am currently a software engineer intern at Skyward. At Skyward, I have developed school software using C#, SQL, and the .NET framework to make the jobs of over four million people easier.
 
-I am excited about the next chapter of my career and am actively exploring new internships! I’d love to connect and discuss potential opportunities. Please message me or reach out at nicmast22@gmail.com. Thanks!
-
+I am excited about the next chapter of my career and am actively exploring new internships!
 
 :arrow_down: Feel free to check out some of my projects below!
 
