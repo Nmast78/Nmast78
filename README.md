@@ -6,8 +6,13 @@
 ---
 
 ### :technologist: About Me:
-Computer Engineering student at UW-Madison. Interested in cybersecurity, web development, and web scraping. Love to build
-projects and have experience with microcontrollers, mulitple programming languages, and frameworks. I am currently teaching myself the basics of cybersecurity and networking along with developing a internship finder website!
+My name is Nick Mast, and I am a computer engineering student at the University of Wisconsin-Madison. I am currently in my junior year and plan to graduate in December 2026. I chose computer engineering due to the fascinating blend of computer software and hardware. I love writing and studying software, but I also enjoy working with circuits now and then.
+
+I started programming in my sophomore year of high school, and believe it or not, I hated it! I had always been fascinated by technology, but not when it came to building and programming it. However, I picked up programming again in my junior year of high school when I wanted to build a program to help manage my phone reselling business. I haven’t looked back since. In my journey, I have found programming to be an enriching experience where you can build and create whatever your heart desires.
+
+My professional engineering journey has been enriched by two opportunities. During my freshman and sophomore years at UW-Madison, I was an information technology support specialist for the university. This allowed me to help staff members while building my knowledge about IT, networking, and operating systems. This position gave me a fantastic understanding of corporate technologies and networks and inspired my love for cybersecurity. I am currently a software engineer intern at Skyward. At Skyward, I have developed school software using C#, SQL, and the .NET framework to make the jobs of over four million people easier.
+
+I am excited about the next chapter of my career and am actively exploring new internships! I’d love to connect and discuss potential opportunities. Please message me or reach out at nicmast22@gmail.com. Thanks!
 
 
 :arrow_down: Feel free to check out some of my projects below!
