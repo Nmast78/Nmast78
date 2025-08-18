@@ -18,9 +18,6 @@ I have recently finished an internship as a cybersecurity consultant at PwC in C
 :golf: In my free time I like to read as well as golf!
 </br>
 
-<br>
-:desktop_computer: Currently interning at Skyward Inc.
-
 :envelope_with_arrow: You can reach me via email @nicmast22@gmail.com or my LinkedIn linked above!
 
 ---
